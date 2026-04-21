@@ -1,4 +1,7 @@
-Sys.setenv(USE_BUNDLED_LIBUV = "1")
+
+
+USE_BUNDLED_LIBUV=1
+
 
 if (!require(terra)) {
   install.packages("terra")
@@ -24,8 +27,30 @@ if (!require(tidyterra)) {
   install.packages("tidyterra")
   library(tidyterra)
 }
-if (!require(leaflet)){install.packages("leaflet"); library(leaflet)}
+if (!require(leaflet)) {
+  install.packages("leaflet")
+  library(leaflet)
+}
 
+if (!require(shiny)) {
+  install.packages("shiny")
+  library(shiny)
+}
+
+if (!require(bslib)) {
+  install.packages("bslib")
+  library(bslib)
+}
+
+if (!require(RColorBrewer)) {
+  install.packages("RColorBrewer")
+  library(RColorBrewer)
+}
+
+if (!require(DT)) {
+  install.packages("DT")
+  library(DT)
+}
 
 
 bawu.kreis <- st_read(
@@ -186,11 +211,7 @@ bawu.kreis_flächen_pro_klasse <- merge(x = bawu.kreis, y = flächen_pro_klasse_
 
 
 
-library(shiny)
-library(bslib)
-library(leaflet)
-library(RColorBrewer)
-library(DT)
+
 
 landcover.stack <- project(landcover.stack, "epsg:4326")
 landcover.stack <- landcover.stack[[c(1,3,5)]]
