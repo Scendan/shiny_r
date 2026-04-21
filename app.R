@@ -1,7 +1,4 @@
-
-
-USE_BUNDLED_LIBUV=1
-
+Sys.setenv(USE_BUNDLED_LIBUV = "1")
 
 if (!require(terra)) {
   install.packages("terra")
