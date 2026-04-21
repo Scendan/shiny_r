@@ -6,9 +6,9 @@ if (!require(sf)) {
   install.packages("sf")
   library(sf)
 }
-if (!require(tidyverse)) {
-  install.packages("tidyverse")
-  library(tidyverse)
+if (!require(dplyr)) {
+  install.packages("dplyr")
+  library(dplyr)
 }
 if (!require(ggplot2)) {
   install.packages("ggplot2")
@@ -17,6 +17,11 @@ if (!require(ggplot2)) {
 if (!require(ggalluvial)) {
   install.packages("ggalluvial")
   library(ggalluvial)
+}
+
+if (!require(tidyr)) {
+  install.packages("tidyr")
+  library(tidyr)
 }
 
 if (!require(leaflet)) {
@@ -142,14 +147,14 @@ server = function(input, output){
   
   output$tableunderplot1 <-renderDT({
     req(rv())
-    test2 = test %>% dplyr::filter(
+    test2 = test %>% filter(
       id == rv()) 
     datatable(test2)
   })
   
   output$myplot = renderPlot({
     req(rv())
-    test = test %>% dplyr::filter(
+    test = test %>% filter(
       id == rv()
     )
     bawu.kreis.titel = test[1, ]
