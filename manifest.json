@@ -4570,10 +4570,13 @@
   },
   "files": {
     ".RData": {
-      "checksum": "6a1c479c5955a61beca25431db0e424c"
+      "checksum": "452512473c86650c8715569d9aea2576"
+    },
+    ".Renviron": {
+      "checksum": "1fdec806249b9642f0e49a3212e93b77"
     },
     "app.R": {
-      "checksum": "5e3a2d7c21d2d2b7c3514fdc9a05cd33"
+      "checksum": "255cba7e107d35bb33b1d883db51b85a"
     },
     "corine_bawu/U2000_CLC1990_V2020_20u1.tif": {
       "checksum": "0a38b1d28612403ba19518cad8d6b3d4"
