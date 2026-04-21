@@ -1,0 +1,340 @@
+kreis_name,id,value,prozent_lc_1990,prozent_lc_2006,prozent_lc_2018
+Alb-Donau-Kreis,"36",Künstliche Flächen,4.7,5.5,7
+Alb-Donau-Kreis,"36",Ackerland,43.5,43.2,49.9
+Alb-Donau-Kreis,"36",Weiden,5.5,5.4,12.1
+Alb-Donau-Kreis,"36","Heterogene landwirtschaft- 
+ liche Gebiete",16.8,16.4,0.1
+Alb-Donau-Kreis,"36",Wald & seminatürliche Flächen,29.2,29.2,30.5
+Alb-Donau-Kreis,"36",Feuchtgebiete & Wasserkörper,0.2,0.4,0.4
+Alb-Donau-Kreis,"36",Dauerkulturen,,,0
+Baden-Baden,"7",Künstliche Flächen,10.1,11.3,13
+Baden-Baden,"7",Ackerland,6.1,5.8,5.2
+Baden-Baden,"7",Dauerkulturen,6.9,6.8,8.7
+Baden-Baden,"7",Weiden,4.9,5.5,6.5
+Baden-Baden,"7","Heterogene landwirtschaft- 
+ liche Gebiete",5.5,4.2,
+Baden-Baden,"7",Wald & seminatürliche Flächen,64.7,64.7,65.8
+Baden-Baden,"7",Feuchtgebiete & Wasserkörper,1.7,1.7,0.8
+Biberach,"44",Künstliche Flächen,5,5.9,7.1
+Biberach,"44",Ackerland,33.5,33.4,43.1
+Biberach,"44",Dauerkulturen,0,0,0
+Biberach,"44",Weiden,17.5,17.4,20.5
+Biberach,"44","Heterogene landwirtschaft- 
+ liche Gebiete",15.2,14.6,0.1
+Biberach,"44",Wald & seminatürliche Flächen,27.5,27.5,28.3
+Biberach,"44",Feuchtgebiete & Wasserkörper,1.3,1.2,0.9
+Böblingen,"29",Künstliche Flächen,13.1,15.1,16.3
+Böblingen,"29",Ackerland,31.5,30.3,32.8
+Böblingen,"29",Dauerkulturen,3,2.9,4.7
+Böblingen,"29",Weiden,3,2.9,8.9
+Böblingen,"29","Heterogene landwirtschaft- 
+ liche Gebiete",13.3,12.9,0.8
+Böblingen,"29",Wald & seminatürliche Flächen,36.1,35.9,36.5
+Bodenseekreis,"24",Künstliche Flächen,8.7,9,9.9
+Bodenseekreis,"24",Ackerland,14.7,14.5,20.9
+Bodenseekreis,"24",Dauerkulturen,9.2,9.2,20.6
+Bodenseekreis,"24",Weiden,8.3,7.4,16.2
+Bodenseekreis,"24","Heterogene landwirtschaft- 
+ liche Gebiete",30.3,31.1,4
+Bodenseekreis,"24",Wald & seminatürliche Flächen,27.7,27.7,27.2
+Bodenseekreis,"24",Feuchtgebiete & Wasserkörper,1.1,1.1,1.2
+Breisgau-Hochschwarzwald,"38",Künstliche Flächen,5,5.5,6.3
+Breisgau-Hochschwarzwald,"38",Ackerland,17.6,16.8,16.3
+Breisgau-Hochschwarzwald,"38",Dauerkulturen,5.6,5.6,6.8
+Breisgau-Hochschwarzwald,"38",Weiden,16.3,16.3,20
+Breisgau-Hochschwarzwald,"38","Heterogene landwirtschaft- 
+ liche Gebiete",5.2,5.5,0.1
+Breisgau-Hochschwarzwald,"38",Wald & seminatürliche Flächen,49.3,49.3,49.4
+Breisgau-Hochschwarzwald,"38",Feuchtgebiete & Wasserkörper,1,1,1.1
+Calw,"34",Künstliche Flächen,6,6.6,7.9
+Calw,"34",Ackerland,7.6,7.5,12.9
+Calw,"34",Dauerkulturen,0.1,0.1,0.6
+Calw,"34",Weiden,4,4,12.9
+Calw,"34","Heterogene landwirtschaft- 
+ liche Gebiete",19,18.6,0.9
+Calw,"34",Wald & seminatürliche Flächen,63.2,63.2,64.8
+Calw,"34",Feuchtgebiete & Wasserkörper,,,0.1
+Emmendingen,"4",Künstliche Flächen,5,5.8,6.9
+Emmendingen,"4",Ackerland,16,15.1,18.4
+Emmendingen,"4",Dauerkulturen,6.1,6.2,8.9
+Emmendingen,"4",Weiden,11.3,11.7,16.9
+Emmendingen,"4","Heterogene landwirtschaft- 
+ liche Gebiete",13.8,13.5,0.8
+Emmendingen,"4",Wald & seminatürliche Flächen,47.2,47.1,47.5
+Emmendingen,"4",Feuchtgebiete & Wasserkörper,0.5,0.5,0.6
+Enzkreis,"18",Künstliche Flächen,9.1,10.4,12
+Enzkreis,"18",Ackerland,26.3,25.5,27.2
+Enzkreis,"18",Dauerkulturen,4.8,4.7,8
+Enzkreis,"18",Weiden,6.5,6.3,9.8
+Enzkreis,"18","Heterogene landwirtschaft- 
+ liche Gebiete",13.5,13.4,1.8
+Enzkreis,"18",Wald & seminatürliche Flächen,39.8,39.7,41.2
+Esslingen,"20",Künstliche Flächen,17.6,19.1,20.8
+Esslingen,"20",Ackerland,18.4,17.6,20.8
+Esslingen,"20",Dauerkulturen,10.9,10.9,16
+Esslingen,"20",Weiden,3.7,3.7,9.1
+Esslingen,"20","Heterogene landwirtschaft- 
+ liche Gebiete",18.1,17.6,0.7
+Esslingen,"20",Wald & seminatürliche Flächen,31.2,31.2,32.5
+Esslingen,"20",Feuchtgebiete & Wasserkörper,,,0
+Freiburg,"12",Künstliche Flächen,24.2,26.2,27.7
+Freiburg,"12",Ackerland,9.9,9.3,12.4
+Freiburg,"12",Dauerkulturen,6.1,6.2,7.6
+Freiburg,"12",Weiden,3.3,3.2,6.3
+Freiburg,"12","Heterogene landwirtschaft- 
+ liche Gebiete",11.9,10.7,0.7
+Freiburg,"12",Wald & seminatürliche Flächen,44.3,44.1,45.1
+Freiburg,"12",Feuchtgebiete & Wasserkörper,0.3,0.3,0.3
+Freudenstadt,"1",Künstliche Flächen,4.1,4.5,5.2
+Freudenstadt,"1",Ackerland,10.2,10,13.1
+Freudenstadt,"1",Dauerkulturen,0.2,0.2,0.1
+Freudenstadt,"1",Weiden,10,9.9,15.8
+Freudenstadt,"1","Heterogene landwirtschaft- 
+ liche Gebiete",12,11.9,0.2
+Freudenstadt,"1",Wald & seminatürliche Flächen,63.3,63.3,65.4
+Freudenstadt,"1",Feuchtgebiete & Wasserkörper,0.2,0.2,0.1
+Göppingen,"19",Künstliche Flächen,10.7,11.4,12.1
+Göppingen,"19",Ackerland,14.8,14.9,22
+Göppingen,"19",Dauerkulturen,2.6,2.6,5.4
+Göppingen,"19",Weiden,12.6,12.5,24.4
+Göppingen,"19","Heterogene landwirtschaft- 
+ liche Gebiete",25.4,24.7,1.1
+Göppingen,"19",Wald & seminatürliche Flächen,33.9,33.9,35
+Heidelberg,"43",Künstliche Flächen,25.9,26.2,26.9
+Heidelberg,"43",Ackerland,21.7,21.5,23.4
+Heidelberg,"43",Dauerkulturen,0.9,0.9,3.6
+Heidelberg,"43",Weiden,0.8,0.8,1.1
+Heidelberg,"43","Heterogene landwirtschaft- 
+ liche Gebiete",6.4,6.2,0.1
+Heidelberg,"43",Wald & seminatürliche Flächen,42.2,42.2,42.7
+Heidelberg,"43",Feuchtgebiete & Wasserkörper,2.2,2.2,2.2
+Heidenheim,"22",Künstliche Flächen,7.1,8.1,9.7
+Heidenheim,"22",Ackerland,30,29.3,31.6
+Heidenheim,"22",Weiden,7.9,7.8,12.9
+Heidenheim,"22","Heterogene landwirtschaft- 
+ liche Gebiete",10,10,0.4
+Heidenheim,"22",Wald & seminatürliche Flächen,44.9,44.9,45.4
+Heidenheim,"22",Dauerkulturen,,,0
+Heilbronn,"41",Künstliche Flächen,7.9,9.4,10.8
+Heilbronn,"41",Ackerland,48.7,47.2,46.1
+Heilbronn,"41",Dauerkulturen,6.1,6.2,8.7
+Heilbronn,"41",Weiden,3.5,3.3,5.1
+Heilbronn,"41","Heterogene landwirtschaft- 
+ liche Gebiete",7.5,7.5,1.7
+Heilbronn,"41",Wald & seminatürliche Flächen,26.1,26.1,27.3
+Heilbronn,"41",Feuchtgebiete & Wasserkörper,0.2,0.2,0.3
+Heilbronn Stadt,"8",Künstliche Flächen,27.9,29.2,30.1
+Heilbronn Stadt,"8",Ackerland,45.1,42.2,41.2
+Heilbronn Stadt,"8",Dauerkulturen,7,6.9,6.8
+Heilbronn Stadt,"8",Weiden,0.1,0.1,3.2
+Heilbronn Stadt,"8","Heterogene landwirtschaft- 
+ liche Gebiete",4.1,5.3,1.8
+Heilbronn Stadt,"8",Wald & seminatürliche Flächen,15.2,15.6,15.7
+Heilbronn Stadt,"8",Feuchtgebiete & Wasserkörper,0.6,0.6,1.2
+Hohenlohekreis,"26",Künstliche Flächen,3.6,4.5,5.7
+Hohenlohekreis,"26",Ackerland,48.5,47.6,49
+Hohenlohekreis,"26",Dauerkulturen,1.4,1.4,4.2
+Hohenlohekreis,"26",Weiden,6.6,6.4,10.2
+Hohenlohekreis,"26","Heterogene landwirtschaft- 
+ liche Gebiete",12.1,12.2,1.2
+Hohenlohekreis,"26",Wald & seminatürliche Flächen,27.9,27.9,29.7
+Karlsruhe,"28",Künstliche Flächen,11.1,12.6,14
+Karlsruhe,"28",Ackerland,37.7,35.3,34.8
+Karlsruhe,"28",Dauerkulturen,2.7,2.6,4.7
+Karlsruhe,"28",Weiden,3.2,3.9,7.4
+Karlsruhe,"28","Heterogene landwirtschaft- 
+ liche Gebiete",9,9,0.9
+Karlsruhe,"28",Wald & seminatürliche Flächen,34.5,34.5,36
+Karlsruhe,"28",Feuchtgebiete & Wasserkörper,1.8,2.1,2.2
+Karlsruhe Stadt,"21",Künstliche Flächen,40.4,42.3,42.4
+Karlsruhe Stadt,"21",Ackerland,19.1,16.6,15.1
+Karlsruhe Stadt,"21",Dauerkulturen,0.5,0.5,2.6
+Karlsruhe Stadt,"21",Weiden,1.3,0.9,3.3
+Karlsruhe Stadt,"21","Heterogene landwirtschaft- 
+ liche Gebiete",9.5,10.4,3.4
+Karlsruhe Stadt,"21",Wald & seminatürliche Flächen,27.1,27.1,30.4
+Karlsruhe Stadt,"21",Feuchtgebiete & Wasserkörper,2.1,2.1,2.8
+Konstanz,"35",Künstliche Flächen,8.6,9.3,10.7
+Konstanz,"35",Ackerland,28,27.1,30.7
+Konstanz,"35",Dauerkulturen,0.7,0.7,2.6
+Konstanz,"35",Weiden,11.2,11.1,18.8
+Konstanz,"35","Heterogene landwirtschaft- 
+ liche Gebiete",15.9,16.2,0.9
+Konstanz,"35",Wald & seminatürliche Flächen,33,33,33.9
+Konstanz,"35",Feuchtgebiete & Wasserkörper,2.5,2.6,2.3
+Lörrach,"33",Künstliche Flächen,6.9,7.6,8.3
+Lörrach,"33",Ackerland,11,10.7,10.7
+Lörrach,"33",Dauerkulturen,1.8,1.7,5.1
+Lörrach,"33",Weiden,13.9,13.9,20.9
+Lörrach,"33","Heterogene landwirtschaft- 
+ liche Gebiete",11.5,11.2,1
+Lörrach,"33",Wald & seminatürliche Flächen,54.1,54.1,53.2
+Lörrach,"33",Feuchtgebiete & Wasserkörper,0.8,0.8,0.9
+Ludwigsburg,"6",Künstliche Flächen,15.2,17.5,19.1
+Ludwigsburg,"6",Ackerland,47.8,45.7,45.3
+Ludwigsburg,"6",Dauerkulturen,8.2,8.1,10.7
+Ludwigsburg,"6",Weiden,3.8,3.8,3.9
+Ludwigsburg,"6","Heterogene landwirtschaft- 
+ liche Gebiete",6.1,6,0.7
+Ludwigsburg,"6",Wald & seminatürliche Flächen,18.3,18.3,20
+Ludwigsburg,"6",Feuchtgebiete & Wasserkörper,0.6,0.6,0.3
+Main-Tauber-Kreis,"23",Künstliche Flächen,3.3,3.8,4.5
+Main-Tauber-Kreis,"23",Ackerland,54.5,54,55.8
+Main-Tauber-Kreis,"23",Dauerkulturen,0.7,0.7,1.5
+Main-Tauber-Kreis,"23",Weiden,3.5,3.3,6.2
+Main-Tauber-Kreis,"23","Heterogene landwirtschaft- 
+ liche Gebiete",9.4,9.5,1
+Main-Tauber-Kreis,"23",Wald & seminatürliche Flächen,28.4,28.4,30.7
+Main-Tauber-Kreis,"23",Feuchtgebiete & Wasserkörper,0.3,0.3,0.3
+Mannheim,"11",Künstliche Flächen,50.4,52.2,53.9
+Mannheim,"11",Ackerland,28.1,26.3,24.6
+Mannheim,"11",Weiden,0.7,0.7,1.3
+Mannheim,"11","Heterogene landwirtschaft- 
+ liche Gebiete",2,2,0.7
+Mannheim,"11",Wald & seminatürliche Flächen,13.9,13.9,14.1
+Mannheim,"11",Feuchtgebiete & Wasserkörper,4.9,4.9,5.4
+Neckar-Odenwald-Kreis,"10",Künstliche Flächen,5,5.7,6.4
+Neckar-Odenwald-Kreis,"10",Ackerland,38.3,38.1,40.2
+Neckar-Odenwald-Kreis,"10",Dauerkulturen,0,0,0.2
+Neckar-Odenwald-Kreis,"10",Weiden,4,3.9,9.1
+Neckar-Odenwald-Kreis,"10","Heterogene landwirtschaft- 
+ liche Gebiete",10.9,10.4,0.2
+Neckar-Odenwald-Kreis,"10",Wald & seminatürliche Flächen,41.5,41.5,43.6
+Neckar-Odenwald-Kreis,"10",Feuchtgebiete & Wasserkörper,0.3,0.3,0.3
+Ortenaukreis,"39",Künstliche Flächen,6.8,7.8,8.9
+Ortenaukreis,"39",Ackerland,13.8,13.7,18
+Ortenaukreis,"39",Dauerkulturen,4,3.9,7.3
+Ortenaukreis,"39",Weiden,10,10.1,13.6
+Ortenaukreis,"39","Heterogene landwirtschaft- 
+ liche Gebiete",15.7,14.8,1.3
+Ortenaukreis,"39",Wald & seminatürliche Flächen,48.7,48.7,49.7
+Ortenaukreis,"39",Feuchtgebiete & Wasserkörper,1.1,1.1,1.1
+Ostalbkreis,"15",Künstliche Flächen,5.7,6.8,7.7
+Ostalbkreis,"15",Ackerland,23.6,23.6,26.4
+Ostalbkreis,"15",Dauerkulturen,0.1,0.1,0.6
+Ostalbkreis,"15",Weiden,17.7,17.5,24.9
+Ostalbkreis,"15","Heterogene landwirtschaft- 
+ liche Gebiete",14.6,13.7,0.3
+Ostalbkreis,"15",Wald & seminatürliche Flächen,38.3,38.2,40.1
+Ostalbkreis,"15",Feuchtgebiete & Wasserkörper,0,0,0
+Pforzheim,"13",Künstliche Flächen,24.6,26.7,28.1
+Pforzheim,"13",Ackerland,8.1,6.9,6.4
+Pforzheim,"13",Dauerkulturen,4.3,4.1,4.7
+Pforzheim,"13",Weiden,0.8,0.8,2.7
+Pforzheim,"13","Heterogene landwirtschaft- 
+ liche Gebiete",7.4,6.7,2.1
+Pforzheim,"13",Wald & seminatürliche Flächen,54.7,54.7,56
+Rastatt,"5",Künstliche Flächen,9.7,10.4,11.4
+Rastatt,"5",Ackerland,16.6,15.8,16.8
+Rastatt,"5",Dauerkulturen,6.3,6.1,7.7
+Rastatt,"5",Weiden,4.2,4.3,6
+Rastatt,"5","Heterogene landwirtschaft- 
+ liche Gebiete",8.8,8.7,1.1
+Rastatt,"5",Wald & seminatürliche Flächen,52,52,54.5
+Rastatt,"5",Feuchtgebiete & Wasserkörper,2.4,2.5,2.6
+Ravensburg,"3",Künstliche Flächen,4.2,4.6,5.6
+Ravensburg,"3",Ackerland,8.7,8.6,16.4
+Ravensburg,"3",Dauerkulturen,0.4,0.4,1.6
+Ravensburg,"3",Weiden,41.6,40.6,46.9
+Ravensburg,"3","Heterogene landwirtschaft- 
+ liche Gebiete",15.6,16.3,0.6
+Ravensburg,"3",Wald & seminatürliche Flächen,27.5,27.5,27.3
+Ravensburg,"3",Feuchtgebiete & Wasserkörper,2,2,1.6
+Rems-Murr-Kreis,"32",Künstliche Flächen,10.1,10.8,11.8
+Rems-Murr-Kreis,"32",Ackerland,18,17.5,16.5
+Rems-Murr-Kreis,"32",Dauerkulturen,9.2,9.3,12.9
+Rems-Murr-Kreis,"32",Weiden,8,8,14.8
+Rems-Murr-Kreis,"32","Heterogene landwirtschaft- 
+ liche Gebiete",14.3,13.9,1.7
+Rems-Murr-Kreis,"32",Wald & seminatürliche Flächen,40.4,40.4,42.3
+Rems-Murr-Kreis,"32",Feuchtgebiete & Wasserkörper,0,0,
+Reutlingen,"17",Künstliche Flächen,6.8,7.5,8.5
+Reutlingen,"17",Ackerland,13.2,13.5,21.7
+Reutlingen,"17",Dauerkulturen,2.5,2.4,3.6
+Reutlingen,"17",Weiden,11.9,11.9,21.8
+Reutlingen,"17","Heterogene landwirtschaft- 
+ liche Gebiete",23.5,22.5,0.9
+Reutlingen,"17",Wald & seminatürliche Flächen,42.1,42.1,43.5
+Rhein-Neckar-Kreis,"16",Künstliche Flächen,13,14.2,15.5
+Rhein-Neckar-Kreis,"16",Ackerland,37,36,35.8
+Rhein-Neckar-Kreis,"16",Dauerkulturen,1.6,1.6,2.3
+Rhein-Neckar-Kreis,"16",Weiden,3.9,3.8,6.5
+Rhein-Neckar-Kreis,"16","Heterogene landwirtschaft- 
+ liche Gebiete",6.5,6.5,0.7
+Rhein-Neckar-Kreis,"16",Wald & seminatürliche Flächen,37,37,38.2
+Rhein-Neckar-Kreis,"16",Feuchtgebiete & Wasserkörper,1,1,1.1
+Rottweil,"2",Künstliche Flächen,6.6,7.3,8.1
+Rottweil,"2",Ackerland,20.1,20.2,24.5
+Rottweil,"2",Weiden,12,12.1,21.1
+Rottweil,"2","Heterogene landwirtschaft- 
+ liche Gebiete",18.4,17.5,0.6
+Rottweil,"2",Wald & seminatürliche Flächen,42.9,42.9,45.2
+Rottweil,"2",Dauerkulturen,,,0.4
+Schwäbisch Hall,"30",Künstliche Flächen,3.6,4.5,5.5
+Schwäbisch Hall,"30",Ackerland,37.2,37.2,40.1
+Schwäbisch Hall,"30",Dauerkulturen,0,0,0.2
+Schwäbisch Hall,"30",Weiden,14.6,13.9,20.4
+Schwäbisch Hall,"30","Heterogene landwirtschaft- 
+ liche Gebiete",13.1,12.9,0.2
+Schwäbisch Hall,"30",Wald & seminatürliche Flächen,31.6,31.6,33.6
+Schwarzwald-Baar-Kreis,"9",Künstliche Flächen,6.4,7.1,7.9
+Schwarzwald-Baar-Kreis,"9",Ackerland,13.5,14,14.9
+Schwarzwald-Baar-Kreis,"9",Weiden,20,20.4,29.6
+Schwarzwald-Baar-Kreis,"9","Heterogene landwirtschaft- 
+ liche Gebiete",13.5,12.1,0.2
+Schwarzwald-Baar-Kreis,"9",Wald & seminatürliche Flächen,46.1,46.1,47.1
+Schwarzwald-Baar-Kreis,"9",Feuchtgebiete & Wasserkörper,0.4,0.4,0.3
+Schwarzwald-Baar-Kreis,"9",Dauerkulturen,,,0
+Sigmaringen,"31",Künstliche Flächen,4.5,5.2,5.8
+Sigmaringen,"31",Ackerland,28.1,28.3,33.6
+Sigmaringen,"31",Dauerkulturen,0,0,0.1
+Sigmaringen,"31",Weiden,10.5,10.5,19.2
+Sigmaringen,"31","Heterogene landwirtschaft- 
+ liche Gebiete",16.2,15.4,0.3
+Sigmaringen,"31",Wald & seminatürliche Flächen,40.3,40.3,40.6
+Sigmaringen,"31",Feuchtgebiete & Wasserkörper,0.3,0.4,0.6
+Stuttgart,"42",Künstliche Flächen,47,48.5,51.7
+Stuttgart,"42",Ackerland,10.6,9.6,9.6
+Stuttgart,"42",Dauerkulturen,5.5,6.4,7.9
+Stuttgart,"42",Weiden,1.1,1.1,3.6
+Stuttgart,"42","Heterogene landwirtschaft- 
+ liche Gebiete",8.4,6.9,0.4
+Stuttgart,"42",Wald & seminatürliche Flächen,27,26.9,26.2
+Stuttgart,"42",Feuchtgebiete & Wasserkörper,0.5,0.5,0.5
+Tübingen,"25",Künstliche Flächen,9.7,11.1,12.9
+Tübingen,"25",Ackerland,27.6,27.2,32.4
+Tübingen,"25",Dauerkulturen,6.5,6.5,8.2
+Tübingen,"25",Weiden,5,5,9
+Tübingen,"25","Heterogene landwirtschaft- 
+ liche Gebiete",15.4,14.4,0.8
+Tübingen,"25",Wald & seminatürliche Flächen,35.7,35.7,36.6
+Tübingen,"25",Feuchtgebiete & Wasserkörper,0.1,0.1,0.2
+Tuttlingen,"37",Künstliche Flächen,6.8,7.3,8.7
+Tuttlingen,"37",Ackerland,10.2,9.8,11.4
+Tuttlingen,"37",Weiden,16,16.6,28
+Tuttlingen,"37","Heterogene landwirtschaft- 
+ liche Gebiete",16.3,15.3,0.1
+Tuttlingen,"37",Wald & seminatürliche Flächen,50.7,50.8,51.8
+Tuttlingen,"37",Feuchtgebiete & Wasserkörper,0.1,0.1,0.1
+Ulm,"40",Künstliche Flächen,26.9,29.2,30.5
+Ulm,"40",Ackerland,39.2,37.6,39.8
+Ulm,"40",Weiden,0.7,0.7,4.6
+Ulm,"40","Heterogene landwirtschaft- 
+ liche Gebiete",10,9.2,1.3
+Ulm,"40",Wald & seminatürliche Flächen,22.9,23,23.7
+Ulm,"40",Feuchtgebiete & Wasserkörper,0.3,0.3,0
+Waldshut,"27",Künstliche Flächen,4.8,5.4,6
+Waldshut,"27",Ackerland,12.6,12.6,14.4
+Waldshut,"27",Dauerkulturen,0.2,0.1,0.7
+Waldshut,"27",Weiden,16.1,16.3,27.1
+Waldshut,"27","Heterogene landwirtschaft- 
+ liche Gebiete",14.7,14.2,0.4
+Waldshut,"27",Wald & seminatürliche Flächen,50.5,50.4,50.5
+Waldshut,"27",Feuchtgebiete & Wasserkörper,1,0.9,1
+Zollernalbkreis,"14",Künstliche Flächen,8.2,8.8,9.5
+Zollernalbkreis,"14",Ackerland,12.2,12.1,15.2
+Zollernalbkreis,"14",Dauerkulturen,1.5,1.3,2
+Zollernalbkreis,"14",Weiden,14.3,14.6,27.6
+Zollernalbkreis,"14","Heterogene landwirtschaft- 
+ liche Gebiete",19.1,18.5,0.7
+Zollernalbkreis,"14",Wald & seminatürliche Flächen,44.7,44.7,45.1
