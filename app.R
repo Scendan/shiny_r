@@ -1,49 +1,49 @@
 if (!require(terra)) {
-  install.packages("terra")
+  install.packages("terra", dependencies = TRUE)
   library(terra)
 }
 if (!require(sf)) {
-  install.packages("sf")
+  install.packages("sf", dependencies = TRUE)
   library(sf)
 }
 if (!require(tidyverse)) {
-  install.packages("tidyverse")
+  install.packages("tidyverse", dependencies = TRUE)
   library(tidyverse)
 }
 if (!require(ggplot2)) {
-  install.packages("ggplot2")
+  install.packages("ggplot2", dependencies = TRUE)
   library(ggplot2)
 }
 if (!require(ggalluvial)) {
-  install.packages("ggalluvial")
+  install.packages("ggalluvial", dependencies = TRUE)
   library(ggalluvial)
 }
 if (!require(tidyterra)) {
-  install.packages("tidyterra")
+  install.packages("tidyterra", dependencies = TRUE)
   library(tidyterra)
 }
 if (!require(leaflet)) {
-  install.packages("leaflet")
+  install.packages("leaflet", dependencies = TRUE)
   library(leaflet)
 }
 
 if (!require(shiny)) {
-  install.packages("shiny")
+  install.packages("shiny", dependencies = TRUE)
   library(shiny)
 }
 
 if (!require(bslib)) {
-  install.packages("bslib")
+  install.packages("bslib", dependencies = TRUE)
   library(bslib)
 }
 
 if (!require(RColorBrewer)) {
-  install.packages("RColorBrewer")
+  install.packages("RColorBrewer", dependencies = TRUE)
   library(RColorBrewer)
 }
 
 if (!require(DT)) {
-  install.packages("DT")
+  install.packages("DT", dependencies = TRUE)
   library(DT)
 }
 
