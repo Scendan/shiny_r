@@ -1,3 +1,5 @@
+Sys.setenv(USE_BUNDLED_LIBUV = "1")
+
 if (!require(terra)) {
   install.packages("terra")
   library(terra)
@@ -25,7 +27,6 @@ if (!require(tidyterra)) {
 if (!require(leaflet)){install.packages("leaflet"); library(leaflet)}
 
 
-library(fs)
 
 bawu.kreis <- st_read(
   "Verwaltungsgrenzen_NOrA_Jan_2026_ALKIS-Shape/v_al_kreis.shp"

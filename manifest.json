@@ -4569,8 +4569,11 @@
     }
   },
   "files": {
+    ".RData": {
+      "checksum": "6a1c479c5955a61beca25431db0e424c"
+    },
     "app.R": {
-      "checksum": "cd202cf09573b5273db429b42c89f7f2"
+      "checksum": "5e3a2d7c21d2d2b7c3514fdc9a05cd33"
     },
     "corine_bawu/U2000_CLC1990_V2020_20u1.tif": {
       "checksum": "0a38b1d28612403ba19518cad8d6b3d4"
@@ -4595,9 +4598,6 @@
     },
     "Verwaltungsgrenzen_NOrA_Jan_2026_ALKIS-Shape/v_al_kreis.prj": {
       "checksum": "878ebc7b3ee75b0233254926756878b8"
-    },
-    "Verwaltungsgrenzen_NOrA_Jan_2026_ALKIS-Shape/v_al_kreis.qmd": {
-      "checksum": "688d802aaeb15f0a9f34ea10efc9ca44"
     },
     "Verwaltungsgrenzen_NOrA_Jan_2026_ALKIS-Shape/v_al_kreis.shp": {
       "checksum": "8ef24043065a1f190bc7c6facac9f322"
